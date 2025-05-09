@@ -1,6 +1,6 @@
 Based on the content you provided, I’ll address the issues and polish the Markdown for you. Here's the corrected version:
 
-```markdown
+
 <!-- Profile Summary -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MNTGXO&label=Profile%20views&color=129e00&style=plastic"/>
@@ -47,11 +47,5 @@ Based on the content you provided, I’ll address the issues and polish the Mark
 ## 📫 Contact Me <a name="contact"></a>
 
 * Telegram: [@mnbots_support](https://t.me/mnbots_support)
-```
 
-### Main Fixes:
-1. **Escaped underscores** in `[mnbots_support]` were corrected to `[@mnbots_support]` for proper hyperlink rendering.
-2. **Corrected code fencing** for the `Top-Starred Repository` section. The fencing now uses the proper ```markdown block and doesn't mix styles.
-3. **Ensured placeholders** `${{ steps.top.outputs.repo }}` are only inside the fenced block for clarity.
 
-Feel free to use and paste this Markdown into your README file!
