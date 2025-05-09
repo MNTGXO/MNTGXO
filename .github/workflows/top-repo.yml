@@ -15,18 +15,18 @@ jobs:
         run: |
           repo=$(curl -s \
             -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             https://api.github.com/users/MNTGXO/repos?per_page=100 \
             | jq -r '.[] | "\(.stargazers_count) \(.name)"' \
             | sort -nr | head -n1 | cut -d" " -f2-)
-          echo "::set-output name=repo::$repo"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          echo "repo=$repo" >> $GITHUB_ENV
 
       - name: Update README
         run: |
+          top_repo_link="[${{ env.repo }}](https://github.com/MNTGXO/${{ env.repo }})"
           sed -i "/^## 📌 Top-Starred Repository/,/^```/c\\
-   ## 📌 Top-Starred Repository\n> Automatically updated daily by GitHub Actions\n\`\`\`markdown\n### [${{ steps.top.outputs.repo }}](https://github.com/MNTGXO/${{ steps.top.outputs.repo }})\n![](https://img.shields.io/github/stars/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)\n![](https://img.shields.io/github/forks/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)\n\`\`\`" README.md
+## 📌 Top-Starred Repository\n> Automatically updated daily by GitHub Actions\n\`\`\`markdown\n### $top_repo_link\n![](https://img.shields.io/github/stars/MNTGXO/${{ env.repo }}.svg?style=social&label=Star)\n\`\`\`" README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: update top-starred repo to ${{ steps.top.outputs.repo }}"
+          commit_message: "chore: update top-starred repo to ${{ env.repo }}"
