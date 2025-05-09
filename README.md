@@ -1,13 +1,6 @@
-Thought for a few seconds
+Based on the content you provided, I’ll address the issues and polish the Markdown for you. Here's the corrected version:
 
-
-Here’s the corrected, ready-to-paste Markdown block. The main fixes are:
-
-1. **Proper code fencing** around the Top-Starred section so it renders correctly.
-2. **No unescaped underscores** in links (e.g. `[@mnbots_support]` instead of `[@mnbots\_support]`).
-3. Ensuring the placeholders (`${{ steps.top.outputs.repo }}`) are only inside the fenced code block.
-
-
+```markdown
 <!-- Profile Summary -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MNTGXO&label=Profile%20views&color=129e00&style=plastic"/>
@@ -43,7 +36,7 @@ Here’s the corrected, ready-to-paste Markdown block. The main fixes are:
 ### [${{ steps.top.outputs.repo }}](https://github.com/MNTGXO/${{ steps.top.outputs.repo }})
 ![](https://img.shields.io/github/stars/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)
 ![](https://img.shields.io/github/forks/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)
-````
+```
 
 ## 🏆 GitHub Trophies
 
@@ -53,6 +46,12 @@ Here’s the corrected, ready-to-paste Markdown block. The main fixes are:
 
 ## 📫 Contact Me <a name="contact"></a>
 
-* Telegram: [@mnbots\_support](https://t.me/mnbots_support)
+* Telegram: [@mnbots_support](https://t.me/mnbots_support)
+```
 
+### Main Fixes:
+1. **Escaped underscores** in `[mnbots_support]` were corrected to `[@mnbots_support]` for proper hyperlink rendering.
+2. **Corrected code fencing** for the `Top-Starred Repository` section. The fencing now uses the proper ```markdown block and doesn't mix styles.
+3. **Ensured placeholders** `${{ steps.top.outputs.repo }}` are only inside the fenced block for clarity.
 
+Feel free to use and paste this Markdown into your README file!
