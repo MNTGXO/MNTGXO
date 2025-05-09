@@ -29,12 +29,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MNTGXO.MNTGXO" alt="Visitor Badge"/>  
 </p>
 
-## 📌 Top-Starred Repository  
-> _Automatically updated daily by GitHub Actions_
-
-### [YourTopRepository](https://github.com/MNTGXO/YourTopRepository)
-![](https://img.shields.io/github/stars/MNTGXO/YourTopRepository?style=flat-square)
-![](https://img.shields.io/github/forks/MNTGXO/YourTopRepository?style=flat-square)
 
 ## 🏆 GitHub Trophies
 
