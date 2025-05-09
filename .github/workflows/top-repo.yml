@@ -1,0 +1,32 @@
+name: 🔄 Update Top-Starred Repo
+on:
+  schedule:
+    - cron: '0 0 * * *'        # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch top-starred repo
+        id: top
+        run: |
+          repo=$(curl -s \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/users/MNTGXO/repos?per_page=100 \
+            | jq -r '.[] | "\(.stargazers_count) \(.name)"' \
+            | sort -nr | head -n1 | cut -d" " -f2-)
+          echo "::set-output name=repo::$repo"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
+        run: |
+          sed -i "/^## 📌 Top-Starred Repository/,/^```/c\\
+   ## 📌 Top-Starred Repository\n> Automatically updated daily by GitHub Actions\n\`\`\`markdown\n### [${{ steps.top.outputs.repo }}](https://github.com/MNTGXO/${{ steps.top.outputs.repo }})\n![](https://img.shields.io/github/stars/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)\n![](https://img.shields.io/github/forks/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)\n\`\`\`" README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update top-starred repo to ${{ steps.top.outputs.repo }}"
