@@ -1,4 +1,4 @@
-Based on the content you provided, I’ll address the issues and polish the Markdown for you. Here's the corrected version:
+
 
 
 <!-- Profile Summary -->
@@ -32,11 +32,9 @@ Based on the content you provided, I’ll address the issues and polish the Mark
 ## 📌 Top-Starred Repository  
 > _Automatically updated daily by GitHub Actions_
 
-```markdown
-### [${{ steps.top.outputs.repo }}](https://github.com/MNTGXO/${{ steps.top.outputs.repo }})
-![](https://img.shields.io/github/stars/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)
-![](https://img.shields.io/github/forks/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)
-```
+### [YourTopRepository](https://github.com/MNTGXO/YourTopRepository)
+![](https://img.shields.io/github/stars/MNTGXO/YourTopRepository?style=flat-square)
+![](https://img.shields.io/github/forks/MNTGXO/YourTopRepository?style=flat-square)
 
 ## 🏆 GitHub Trophies
 
