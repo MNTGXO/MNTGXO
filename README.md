@@ -34,26 +34,6 @@
    ![](https://img.shields.io/github/stars/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)
    ![](https://img.shields.io/github/forks/MNTGXO/${{ steps.top.outputs.repo }}?style=flat-square)
 
-   ## 📰 Latest Blog Posts
-
-   > *Fetched dynamically via Actions from your RSS feed*
-
-   <!-- START_BLOG_POSTS -->
-   - [Post Title 1](URL) • Date  
-   - [Post Title 2](URL) • Date  
-   - [Post Title 3](URL) • Date  
-   <!-- END_BLOG_POSTS -->
-
-   ## 🐦 Latest Tweets
-
-   > *Embedded with GitHub Action using Twitter API*
-
-
-   <!-- START_TWEETS -->
-   - “Tweet content 1” • [View on Twitter](LINK)  
-   - “Tweet content 2” • [View on Twitter](LINK)  
-   <!-- END_TWEETS -->
-
 
    ## 🏆 GitHub Trophies
 
