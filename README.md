@@ -7,7 +7,7 @@ Here’s the corrected, ready-to-paste Markdown block. The main fixes are:
 2. **No unescaped underscores** in links (e.g. `[@mnbots_support]` instead of `[@mnbots\_support]`).
 3. Ensuring the placeholders (`${{ steps.top.outputs.repo }}`) are only inside the fenced code block.
 
-````markdown
+
 <!-- Profile Summary -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MNTGXO&label=Profile%20views&color=129e00&style=plastic"/>
