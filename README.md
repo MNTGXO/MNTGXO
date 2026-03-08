@@ -1,105 +1,18 @@
-<!-- Animated Banner -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0066ff&height=200&section=header&text=MN-TG%20Developer&fontSize=40&fontColor=ffffff"/>
-</p>
+# 👋 Hi, I'm Musammil N
 
-<!-- Profile Summary -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MNTGXO&label=Profile%20views&color=129e00&style=plastic"/>
-  <br/>
-  <strong>👤 MN-TG (MNTGXO)</strong> — Telegram Bot Developer • <a href="#contact">Contact Me</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developer;Telegram+Bot+Builder;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 👋 Hello, I'm Musammil
+## 👨‍💻 About Me
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Web+Developer;Python+%7C+PHP+%7C+JavaScript;Creator+of+MN+Bots"/>
-</p>
-
-<p align="center">
-Developer from <b>Kerala, India 🇮🇳</b><br>
-Creator of <b>MN Bots</b>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-- Name: **Musammil**
-- Also Known As: **MN TG**
-- Username: **@mntgxo**
-- Location: **Kerala, India**
-- Languages: **English, Malayalam**
-
-I build **Telegram bots, automation tools, and backend systems** using modern technologies.
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-### ⚙️ Tools
-
-![Pyrogram](https://img.shields.io/badge/Pyrogram-Telegram-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
----
-
-# 🤖 Development Areas
-
-### Telegram Bot Development
-
-• Telegram automation  
-• Bot command systems  
-• API integrations  
-• Database-powered bots  
-
-### Web Development
-
-• Backend systems  
-• Dynamic websites  
-• API based applications  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MNTGXO&show_icons=true&theme=dark&count_private=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MNTGXO&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNTGXO&layout=compact&theme=dark"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MNTGXO&theme=github-dark"/>
-</p>
+- 🔭 Currently working on **Telegram Bots**
+- 🌱 Learning **Python & Automation**
+- 🚀 Interested in **Open Source Development**
+- 📫 Reach me via **Telegram or GitHub**
+- ⚡ Fun fact: *I love building useful tools*
 
 ---
 
@@ -107,11 +20,30 @@ I build **Telegram bots, automation tools, and backend systems** using modern te
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/MNTGXO?style=social"/>
-<img src="https://img.shields.io/github/stars/MNTGXO?style=social"/>
-<img src="https://img.shields.io/github/repos/MNTGXO?style=for-the-badge"/>
-<img src="https://img.shields.io/github/languages/top/MNTGXO?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MNTGX0?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/MNTGX0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=MNTGX0&style=for-the-badge&color=brightgreen" />
 
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MNTGX0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNTGX0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MNTGX0&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -119,7 +51,7 @@ I build **Telegram bots, automation tools, and backend systems** using modern te
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/MNTGX0/MNTGX0/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -127,7 +59,7 @@ I build **Telegram bots, automation tools, and backend systems** using modern te
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MNTGXO&theme=darkhub&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MNTGX0&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -139,16 +71,40 @@ I build **Telegram bots, automation tools, and backend systems** using modern te
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Featured Projects
 
-[![Telegram](https://img.shields.io/badge/Telegram-MN_Bots-blue?style=for-the-badge&logo=telegram)](https://t.me/mnbots)
+### 🤖 Telegram Bots
+- Telegram automation tools
+- Moderation bots
+- Utility bots
 
-[![Support](https://img.shields.io/badge/Telegram-Support-green?style=for-the-badge&logo=telegram)](https://t.me/mnbots_support)
-
-[![GitHub](https://img.shields.io/badge/GitHub-MNTGXO-black?style=for-the-badge&logo=github)](https://github.com/MNTGXO)
+### 🧰 Developer Tools
+- GitHub automation scripts
+- Bot hosting helpers
+- Deployment tools
 
 ---
 
-# 📫 Contact
+# 🌐 Connect With Me
 
-Telegram: https://t.me/mnbots_support
+<p align="center">
+
+<a href="https://github.com/MNTGX0">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://t.me/">
+<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+⭐ **Thanks for visiting my profile!**
