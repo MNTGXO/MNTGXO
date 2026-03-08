@@ -20,9 +20,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/MNTGX0?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/MNTGX0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
-<img src="https://komarev.com/ghpvc/?username=MNTGX0&style=for-the-badge&color=brightgreen" />
+<img src="https://img.shields.io/github/followers/MNTGXo?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/MNTGXo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=MNTGXo&style=for-the-badge&color=brightgreen" />
 
 </p>
 
@@ -32,9 +32,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MNTGX0&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MNTGXO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNTGX0&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNTGXo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -43,7 +43,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MNTGX0&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MNTGXo&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MNTGX0/MNTGX0/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/MNTGXo/MNTGXo/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MNTGX0&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MNTGXo&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@
 
 <p align="center">
 
-<a href="https://github.com/MNTGX0">
+<a href="https://github.com/MNTGXo">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
