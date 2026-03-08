@@ -2,17 +2,17 @@ name: Update README with activity
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run daily at midnight UTC
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2.5
+      - uses: actions/checkout@v3
+
+      - uses: JamesIves/github-activity-readme@v0.4.1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
