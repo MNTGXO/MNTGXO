@@ -146,25 +146,4 @@ Creator of **MN Bots**, where I build:
 
 ---
 
-⭐ If you like my projects, consider **starring the repositories!**  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MNTGXO&theme=dark"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNTGXO&layout=compact&theme=dark"/>  
-</p>
-
-## 🔥 Contribution Activity
-<p align="center">
-  <img src="https://github.com/MNTGXO.png?tab=activity&theme=dark" alt="Activity Heatmap"/>  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MNTGXO.MNTGXO" alt="Visitor Badge"/>  
-</p>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MNTGXO&theme=darkhub"/>  
-</p>
-
-## 📫 Contact Me <a name="contact"></a>
-
-* Telegram: [@mnbots_support](https://t.me/mnbots_support)
-
-
+⭐ If you like my projects, consider **starring the repositories!**
