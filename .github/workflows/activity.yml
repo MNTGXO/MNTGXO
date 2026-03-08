@@ -7,12 +7,9 @@ on:
 
 jobs:
   update-readme:
-    name: Update README with recent activity
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
       - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
