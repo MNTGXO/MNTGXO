@@ -117,8 +117,5 @@ I build **Telegram bots, automation tools, and backend systems**.
 
 Telegram: https://t.me/mnbots_support
 
----
 
-<p align="center">
-✨ Built with ❤️ by Musammil (MN TG)
-</p>
+
