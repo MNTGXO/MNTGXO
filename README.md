@@ -86,7 +86,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 🧊 3D Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mntgxo/mntgxo/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph for mntgxo"/>
 </p>
 
 ---
@@ -114,15 +114,16 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mntgxo&theme=darkhub&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MNTGXO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies for mntgxo"/>
 </p>
 
 ---
 
 # 📜 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+- ⚡ Recent activity will appear here automatically when the workflow runs.
+<!--RECENT_ACTIVITY:end-->
 
 ---
 

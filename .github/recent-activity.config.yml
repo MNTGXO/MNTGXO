@@ -1,0 +1,5 @@
+timezone: Asia/Kolkata
+max_lines: 5
+disable_reactions: false
+disable_emojis: false
+commit_msg: "docs: update recent activity"
