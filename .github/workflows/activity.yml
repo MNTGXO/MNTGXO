@@ -1,5 +1,4 @@
 name: Update README with recent activity
-
 on:
   schedule:
     - cron: "0 * * * *"
@@ -8,8 +7,19 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: Readme-Workflows/recent-activity@main
+
+      - uses: Readme-Workflows/recent-activity@v2.0.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "⚡ Update recent activity" || echo "No changes to commit"
+          git push
