@@ -1,22 +1,30 @@
-name: Update README with recent activity
+name: Update README with Recent Activity
+
 on:
   schedule:
+    # Runs every hour at minute 0
     - cron: "0 * * * *"
-  workflow_dispatch:
+  workflow_dispatch:   # Allows manual triggering from the Actions tab
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write   # Required to push changes back to the repo
+
     steps:
-      - uses: actions/checkout@v3
+      # Step 1: Check out the repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/recent-activity@v2   # ✅ Fixed version
+      # Step 2: Generate recent activity and update README
+      - name: Update README with Recent Activity
+        uses: Readme-Workflows/recent-activity@v2   # Uses the latest v2 release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub
 
-      - name: Commit changes
+      # Step 3: Commit and push any changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
