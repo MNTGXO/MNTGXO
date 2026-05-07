@@ -13,7 +13,7 @@
 # 👋 Hello, I'm Musammil
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Web+Developer;Python+%7C+PHP+%7C+JavaScript;Creator+of+MN+Bots"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Web+Developer;Python+%7C+[...]
 </p>
 
 <p align="center">
@@ -103,6 +103,13 @@ I build **Telegram bots, automation tools, and backend systems**.
 
 ---
 
+# 📊 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
 # 🌐 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-MN_Bots-blue?style=for-the-badge&logo=telegram)](https://t.me/mnbots)
@@ -116,6 +123,3 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 📫 Contact
 
 Telegram: https://t.me/mnbots_support
-
-
-
