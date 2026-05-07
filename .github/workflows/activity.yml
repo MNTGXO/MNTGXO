@@ -17,10 +17,10 @@ jobs:
       contents: write             # Required to push changes
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.0
 
       - name: Generate recent activity
-        uses: Readme-Workflows/recent-activity@v2.4.1
+        uses: Readme-Workflows/recent-activity@v2.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
