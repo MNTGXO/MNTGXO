@@ -13,7 +13,7 @@
 # 👋 Hello, I'm Musammil
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Web+Developer;Python+%7C+[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Web+Developer;Python+[...]
 </p>
 
 <p align="center">
