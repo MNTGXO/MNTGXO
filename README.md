@@ -67,9 +67,9 @@ I build **Telegram bots, automation tools, and backend systems**.
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mntgxo&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mntgxo&layout=compact&langs_count=9theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mntgxo&layout=compact&langs_count=10&theme=dark"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mntgxo&hide_border&include_all_commits=true&count_private=true=truetheme=dark"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mntgxo&hide_border&include_all_commits=true&count_private=true=true&theme=dark"/>
 
 </p>
 
