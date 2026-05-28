@@ -62,7 +62,6 @@ I build **Telegram bots, automation tools, and backend systems**.
 <p align="center">
 
 <img src="https://img.shields.io/github/followers/mntgxo?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/mntgxo?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=mntgxo&style=for-the-badge"/>
 
 </p>
