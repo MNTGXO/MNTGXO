@@ -41,7 +41,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mntgxo&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
 
-<img height="180em" src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-languages.svg"/>
+<img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-languages.svg"/>
 
 
 
