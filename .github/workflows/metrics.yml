@@ -21,8 +21,9 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_limit: 0
-          plugin_languages_indepth: yes
+          plugin_languages_limit: 20             # Increased from 0 to guarantee all languages show
+          plugin_languages_threshold: 0%         # Added to ensure languages with <1% usage aren't hidden
+          plugin_languages_indepth: no           # Changed to "no" to scan entire repos instead of just recent commits
           plugin_languages_details: percentage
           config_timezone: Asia/Kolkata
           filename: github-metrics-languages.svg
