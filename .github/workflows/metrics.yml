@@ -2,7 +2,10 @@ name: Generate Top Languages
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs every 7 hours
+    - cron: "0 */7 * * *"
+  push:
+    # Runs on every new commit to any branch
   workflow_dispatch:
 
 jobs:
@@ -21,8 +24,9 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_limit: 0
-          plugin_languages_indepth: yes
+          plugin_languages_limit: 20
+          plugin_languages_threshold: 0%
+          plugin_languages_indepth: no
           plugin_languages_details: percentage
           config_timezone: Asia/Kolkata
           filename: github-metrics-languages.svg
