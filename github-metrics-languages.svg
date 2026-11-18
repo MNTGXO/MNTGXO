@@ -3,22 +3,22 @@
 <text x="20" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#58a6ff">Most used languages</text>
 <clipPath id="bar"><rect x="20" y="46" width="440" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)"><rect x="20" y="46" width="440" height="8" fill="#30363d"/>
-<rect x="20.00" y="46" width="330.02" height="8" fill="#3572A5"/>
-<rect x="350.02" y="46" width="44.64" height="8" fill="#A97BFF"/>
-<rect x="394.66" y="46" width="23.12" height="8" fill="#e34c26"/>
-<rect x="417.79" y="46" width="18.85" height="8" fill="#f1e05a"/>
-<rect x="436.64" y="46" width="6.57" height="8" fill="#3178c6"/>
-<rect x="443.21" y="46" width="5.70" height="8" fill="#b07219"/>
-<rect x="448.92" y="46" width="5.09" height="8" fill="#00ADD8"/>
-<rect x="454.00" y="46" width="1.70" height="8" fill="#00B4AB"/>
-<rect x="455.70" y="46" width="4.30" height="8" fill="#8b949e"/>
+<rect x="20.00" y="46" width="328.94" height="8" fill="#3572A5"/>
+<rect x="348.94" y="46" width="45.94" height="8" fill="#A97BFF"/>
+<rect x="394.88" y="46" width="23.05" height="8" fill="#e34c26"/>
+<rect x="417.93" y="46" width="18.79" height="8" fill="#f1e05a"/>
+<rect x="436.71" y="46" width="6.55" height="8" fill="#3178c6"/>
+<rect x="443.27" y="46" width="5.69" height="8" fill="#b07219"/>
+<rect x="448.95" y="46" width="5.07" height="8" fill="#00ADD8"/>
+<rect x="454.02" y="46" width="1.69" height="8" fill="#00B4AB"/>
+<rect x="455.72" y="46" width="4.28" height="8" fill="#8b949e"/>
 </g>
 <circle cx="25" cy="86" r="5" fill="#3572A5"/>
-<text x="38" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Python <tspan fill="#8b949e">75.0%</tspan></text>
+<text x="38" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Python <tspan fill="#8b949e">74.8%</tspan></text>
 <circle cx="245" cy="86" r="5" fill="#A97BFF"/>
-<text x="258" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Kotlin <tspan fill="#8b949e">10.1%</tspan></text>
+<text x="258" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Kotlin <tspan fill="#8b949e">10.4%</tspan></text>
 <circle cx="25" cy="110" r="5" fill="#e34c26"/>
-<text x="38" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">HTML <tspan fill="#8b949e">5.3%</tspan></text>
+<text x="38" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">HTML <tspan fill="#8b949e">5.2%</tspan></text>
 <circle cx="245" cy="110" r="5" fill="#f1e05a"/>
 <text x="258" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">4.3%</tspan></text>
 <circle cx="25" cy="134" r="5" fill="#3178c6"/>
