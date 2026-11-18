@@ -1,20 +1,26 @@
-name: Generate Top Languages
+name: Generate GitHub Metrics
 
 on:
   schedule:
     # Runs every 7 hours
     - cron: "0 */7 * * *"
-  push:
-    # Runs on every new commit to any branch
   workflow_dispatch:
+
+# Never run two metrics jobs at once (avoids push conflicts)
+concurrency:
+  group: github-metrics
+  cancel-in-progress: false
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1) Top languages card -> github-metrics-languages.svg
+      - name: Top languages
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mntgxo
@@ -28,3 +34,17 @@ jobs:
           plugin_languages_details: percentage
           config_timezone: Asia/Kolkata
           filename: github-metrics-languages.svg
+
+      # 2) General stats card -> github-metrics-stats.svg
+      #    (replaces the unreliable github-readme-stats.vercel.app card)
+      - name: General stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: mntgxo
+          template: classic
+          base: header, activity, community, repositories
+          commits_limit: 0
+          repositories_affiliations: owner, collaborator, organization_member
+          config_timezone: Asia/Kolkata
+          filename: github-metrics-stats.svg

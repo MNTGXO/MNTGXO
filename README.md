@@ -1,11 +1,11 @@
 <!-- Animated Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0066ff&height=200&section=header&text=MN-TG%20Developer&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:0066ff&height=200&section=header&text=MN-TG%20Developer&fontSize=40&fontColor=ffffff" alt="MN-TG Developer banner"/>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mntgxo&label=Profile%20views&color=129e00&style=plastic"/>
+  <img src="https://komarev.com/ghpvc/?username=mntgxo&label=Profile%20views&color=129e00&style=plastic" alt="Profile views"/>
 </p>
 
 ---
@@ -13,12 +13,12 @@
 # 👋 Hello, I'm Musammil
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Web+Developer;Python+[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Telegram+Bot+Developer;Web+Developer;Python+Developer" alt="Typing animation"/>
 </p>
 
 <p align="center">
-Developer from <b>Kerala, India 🇮🇳</b><br>
-Creator of <b>MN Bots</b>
+  Developer from <b>Kerala, India 🇮🇳</b><br>
+  Creator of <b>MN Bots</b>
 </p>
 
 ---
@@ -38,15 +38,11 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mntgxo&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-
-<img height="180em" src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-languages.svg"/>
-
-
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mntgxo&hide_border&include_all_commits=true&count_private=true=true&theme=dark"/>
-
+  <img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-stats.svg?v=1" alt="GitHub stats"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-languages.svg?v=2" alt="Most used languages"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=mntgxo&hide_border=true&theme=dark" alt="GitHub streak"/>
 </p>
 
 ---
@@ -54,7 +50,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mntgxo&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mntgxo&theme=github-dark" alt="Activity graph"/>
 </p>
 
 ---
@@ -62,10 +58,8 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 🛠 Tech & Live Metrics
 
 <p align="center">
-
-<img src="https://img.shields.io/github/followers/mntgxo?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=mntgxo&style=for-the-badge"/>
-
+  <img src="https://img.shields.io/github/followers/mntgxo?style=for-the-badge" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=mntgxo&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -73,7 +67,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mntgxo/mntgxo/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/mntgxo/mntgxo/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
 ---
