@@ -40,7 +40,7 @@ I build **Telegram bots, automation tools, and backend systems**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-stats.svg?v=1" alt="GitHub stats"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-languages.svg?v=2" alt="Most used languages"/>
+  <img src="https://raw.githubusercontent.com/MNTGXO/MNTGXO/refs/heads/main/github-metrics-languages.svg?v=3" alt="Most used languages"/>
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=mntgxo&hide_border=true&theme=dark" alt="GitHub streak"/>
 </p>
