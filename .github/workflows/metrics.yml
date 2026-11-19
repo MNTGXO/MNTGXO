@@ -3,7 +3,7 @@ name: Generate GitHub Metrics
 on:
   schedule:
     # Runs every 7 hours
-    - cron: "0 */5 * * *"
+    - cron: "0 */7 * * *"
   workflow_dispatch:
 
 # Never run two metrics jobs at once (avoids push conflicts)
