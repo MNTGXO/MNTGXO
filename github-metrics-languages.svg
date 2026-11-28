@@ -3,15 +3,15 @@
 <text x="20" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#58a6ff">Most used languages</text>
 <clipPath id="bar"><rect x="20" y="46" width="440" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)"><rect x="20" y="46" width="440" height="8" fill="#30363d"/>
-<rect x="20.00" y="46" width="315.58" height="8" fill="#3572A5"/>
-<rect x="335.58" y="46" width="58.34" height="8" fill="#A97BFF"/>
-<rect x="393.92" y="46" width="20.92" height="8" fill="#e34c26"/>
-<rect x="414.84" y="46" width="17.35" height="8" fill="#f1e05a"/>
-<rect x="432.19" y="46" width="10.59" height="8" fill="#3178c6"/>
-<rect x="442.79" y="46" width="5.42" height="8" fill="#00ADD8"/>
-<rect x="448.21" y="46" width="5.16" height="8" fill="#b07219"/>
-<rect x="453.37" y="46" width="1.54" height="8" fill="#00B4AB"/>
-<rect x="454.91" y="46" width="5.09" height="8" fill="#8b949e"/>
+<rect x="20.00" y="46" width="315.52" height="8" fill="#3572A5"/>
+<rect x="335.52" y="46" width="58.32" height="8" fill="#A97BFF"/>
+<rect x="393.84" y="46" width="20.92" height="8" fill="#e34c26"/>
+<rect x="414.76" y="46" width="17.35" height="8" fill="#f1e05a"/>
+<rect x="432.11" y="46" width="10.59" height="8" fill="#3178c6"/>
+<rect x="442.70" y="46" width="5.42" height="8" fill="#00ADD8"/>
+<rect x="448.12" y="46" width="5.16" height="8" fill="#b07219"/>
+<rect x="453.28" y="46" width="1.54" height="8" fill="#00B4AB"/>
+<rect x="454.81" y="46" width="5.19" height="8" fill="#8b949e"/>
 </g>
 <circle cx="25" cy="86" r="5" fill="#3572A5"/>
 <text x="38" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Python <tspan fill="#8b949e">71.7%</tspan></text>
